@@ -35,7 +35,7 @@ http://blog.csdn.net/qy1387/article/details/7752973
 
 6.列举java的集合和继承关系（百度、美团）
 
-
+http://blog.csdn.net/sdhgood/article/details/38849477
 
 7.java虚拟机的特性（百度、乐视）
 
