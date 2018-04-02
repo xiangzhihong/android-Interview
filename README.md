@@ -635,4 +635,5 @@ measure()方法，layout()，draw()三个方法主要存放了一些标识符，
 如果View没有对ACTION_DOWN进行消费，之后的其他事件不会传递过来。
 = OnTouchListener优先于onTouchEvent()对事件进行消费。 上面的消费即表示相应函数返回值为true。
 
-
+39,Android两种序列化的区别和作用
+Serializable接口是Java提供的一个序列化接口，它是一个空接口，为对象提供标准的序列化和反序列化操作。
