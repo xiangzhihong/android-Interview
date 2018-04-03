@@ -5,6 +5,10 @@
 熟悉本文中列出的知识点会大大增加通过前两轮技术面试的几率。
 
 欢迎一线公司员工提交内部面试题库，欢迎star。
+Android的知识图谱如下图所示，如果你能掌握这张图谱的8成，那绝对是大神
+![ABC](http://ohe65w0xx.bkt.clouddn.com/7711162-8e9a572915700a66.png) 
+![ABC](http://ohe65w0xx.bkt.clouddn.com/7711162-36ce352b96102970.png) 
+![ABC](http://ohe65w0xx.bkt.clouddn.com/7711162-b1b08ff8adde6be2.png) 
 
 一、java基础
 
@@ -637,3 +641,35 @@ measure()方法，layout()，draw()三个方法主要存放了一些标识符，
 
 39,Android两种序列化的区别和作用
 Serializable接口是Java提供的一个序列化接口，它是一个空接口，为对象提供标准的序列化和反序列化操作。
+
+三，Android常见框架
+19.Android面试系列文章2018之常用框架之网络框架篇 
+http://blog.csdn.net/clandellen/article/details/79373303
+
+20.Android面试系列文章2018之常用框架之异步框架篇 
+http://blog.csdn.net/ClAndEllen/article/details/79373350
+
+21.Android面试系列文章2018之常用框架之图片加载框架篇 
+http://blog.csdn.net/ClAndEllen/article/details/79375228
+
+22.Android面试系列文章2018之常用框架之依赖注入框架篇 
+http://blog.csdn.net/clandellen/article/details/79375249
+
+23.Android面试系列文章2018之常用框架之内存优化框架篇 
+http://blog.csdn.net/ClAndEllen/article/details/79375317
+
+补：23.1 Android面试系列 文章之常用框架之数据库存储框架篇
+
+LitPal: https://www.jianshu.com/p/bc68e763c7a2
+
+GreenDao: 笔者酷爱使用这个 
+https://www.jianshu.com/p/853401a7d02b
+
+3.OrmLite 
+https://www.jianshu.com/p/05782b598cf0
+
+4.DBFlow 
+http://blog.csdn.net/u011520533/article/details/51814159
+
+5.Realm 
+https://www.jianshu.com/p/37af717761cc
