@@ -685,3 +685,6 @@ http://blog.csdn.net/u011520533/article/details/51814159
 
 5.Realm 
 https://www.jianshu.com/p/37af717761cc
+
+41,手写实现Android两个子程序通信代码？
+一般情况下的主线程和子线程之间的通信，都是通过主线程中的handler把子线程中的message发给主线程中的looper，或者，主线程中的handler通过post向looper中发送一个runnable。looper默认存在于main线程中。那么子线程中没有Looper，该怎么办呢？很简单，我们可以把looper绑定到子线程中，并且创建一个handler。在另一个线程中通过这个handler发送消息，就可以实现子线程之间的通信了。具体的实现代码可以参考下面的链接：https://www.cnblogs.com/Jackie-zhang/p/6080218.html
